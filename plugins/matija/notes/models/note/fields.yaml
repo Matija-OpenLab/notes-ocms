@@ -1,0 +1,9 @@
+fields:
+    title:
+        label: Title
+        span: auto
+        type: text
+    content:
+        label: Content
+        span: auto
+        type: text

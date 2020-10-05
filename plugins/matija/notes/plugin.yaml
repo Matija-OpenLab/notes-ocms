@@ -1,0 +1,11 @@
+plugin:
+    name: 'matija.notes::lang.plugin.name'
+    description: 'matija.notes::lang.plugin.description'
+    author: Matija
+    icon: oc-icon-anchor
+    homepage: ''
+navigation:
+    notes-button:
+        label: Notes
+        url: /matija/notes/notes
+        icon: icon-anchor

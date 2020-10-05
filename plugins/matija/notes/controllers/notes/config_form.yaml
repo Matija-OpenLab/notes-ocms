@@ -1,0 +1,10 @@
+name: Notes
+form: $/matija/notes/models/note/fields.yaml
+modelClass: Matija\Notes\Models\Note
+defaultRedirect: matija/notes/notes
+create:
+    redirect: 'matija/notes/notes/update/:id'
+    redirectClose: matija/notes/notes
+update:
+    redirect: matija/notes/notes
+    redirectClose: matija/notes/notes
